@@ -1,5 +1,5 @@
 # Tp-chona
-Integrantes: Mateo Perez y Benjamin Vitorgan
+Integrantes: Mateo P y Benjamin V
 
 
 Link: 
